@@ -324,8 +324,8 @@ function addToCart(id) {
     showAlert();
 }
 
-function buyNow(id, price) {
-    let arr = [[id, price]];
+function buyNow(id, quantity) {
+    let arr = [[id, quantity]];
     localStorage.setItem('bill_items', JSON.stringify(arr));
     window.location.href = "./bill.html";
 }
@@ -351,7 +351,7 @@ fooddiv.innerHTML = `
                 </div>
                 <div class="action-buttons">
                     <button class="add-to-cart" onclick="addToCart(${fooditem.id})">Add to Cart</button>
-                    <button class="buy-now" onclick="buyNow(${fooditem.id},${fooditem.price})">Buy Now</button>
+                    <button class="buy-now" onclick="buyNow(${fooditem.id},${1})">Buy Now</button>
                 </div>
             </div>
         </div>
