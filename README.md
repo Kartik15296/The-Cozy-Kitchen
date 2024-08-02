@@ -9,6 +9,8 @@ Try Out Website : https://kartik15296.github.io/The-Cozy-Kitchen/
 <br>
 ![Screenshot 2024-08-02 184723](https://github.com/user-attachments/assets/fb414bc7-fac3-494b-83b4-19d6efda051a)
 <br>
+![image](https://github.com/user-attachments/assets/53d22baf-f373-485b-9608-7db77cb0cfa1)
+<br><br>
 
 **The Search Page** *here users can search for any dishesh available on our website*
 <br><br>
