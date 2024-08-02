@@ -5,11 +5,7 @@ Try Out Website : https://kartik15296.github.io/The-Cozy-Kitchen/
 <br><br>
 **Landing page :**
 <br><br>
-![Screenshot 2024-08-02 184634](https://github.com/user-attachments/assets/c4465a02-1c44-4f53-8019-e4a6e60677c6)
-<br>
-![Screenshot 2024-08-02 184723](https://github.com/user-attachments/assets/fb414bc7-fac3-494b-83b4-19d6efda051a)
-<br>
-![image](https://github.com/user-attachments/assets/53d22baf-f373-485b-9608-7db77cb0cfa1)
+https://github.com/user-attachments/assets/8bad233f-69e1-4622-8c4c-372b017d209b
 <br><br>
 
 **The Search Page** *here users can search for any dishesh available on our website*
