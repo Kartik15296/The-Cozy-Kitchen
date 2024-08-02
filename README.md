@@ -40,3 +40,5 @@ Try Out Website : https://kartik15296.github.io/The-Cozy-Kitchen/
 <br><br>
 ![Screenshot 2024-08-02 185126](https://github.com/user-attachments/assets/5a6222bc-7da0-4049-937e-2b415c6b96dc)
 <br><br>
+
+https://github.com/user-attachments/assets/93ac362b-871f-4e39-bc2b-ee6b57d2803d
