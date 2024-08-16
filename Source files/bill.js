@@ -105,7 +105,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     </tr>
                     <tr>
                         <td colspan="3" class="text-right">GST (18%)</td>
-                        <td>${subtotal_bill * 0.18}</td>
+                        <td>${Math.round((subtotal_bill * 0.18 )* 100) / 100}</td>
                     </tr>
                     <tr>
                         <td colspan="3" class="text-right">Total</td>
